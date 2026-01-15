@@ -1,0 +1,24 @@
+{
+  "name": "projeto-004",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/styles.css -o ./styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVictor061/Projeto-004.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JoaoVictor061/Projeto-004/issues"
+  },
+  "homepage": "https://github.com/JoaoVictor061/Projeto-004#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
